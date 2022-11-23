@@ -125,6 +125,12 @@ body{
   height: 2.2rem;
 }
 
+/* navigation */
+.main-nav-list{
+  list-style-type:none;
+  display: flex;
+  gap: 3.2rem;
+}
 /* hero section */
 /***************************/
 .section-hero{
