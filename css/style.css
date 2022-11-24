@@ -224,7 +224,13 @@ background-color: #cf711f;
 .grid{
   display: grid;
   gap: 9.6rem;
+
+}
+.grid--2-cols{
   grid-template-columns: repeat(2,1fr);
+}
+.grid--3-cols{
+  grid-template-columns: repeat(3,1fr);
 }
 .section-how div{
   padding: 100px;
